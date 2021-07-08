@@ -33,6 +33,7 @@ call plug#begin("~/.vim/plugged")
  Plug 'google/vim-codefmt'
  Plug 'google/vim-glaive' 
 " File Explorer with Icons
+ Plug 'rrethy/vim-hexokinase, {do: 'make hexokinase'}
  Plug 'scrooloose/nerdtree'
  Plug 'honza/vim-snippets'
  Plug 'ryanoasis/vim-devicons'   
